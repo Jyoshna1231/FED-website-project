@@ -1,7 +1,7 @@
 .bannerBgImage {
     height: 100vh;
     border-width: 180cm;
-    background-image: url("images/bannerImage.jpg");
+    background-image: url("internships/bannerImage.jpg");
     background-size: cover;
     position: relative;
 }
