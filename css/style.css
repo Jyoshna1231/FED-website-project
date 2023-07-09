@@ -1,10 +1,4 @@
-.bannerBgImage {
-    height: 100vh;
-    border-width: 180cm;
-    background-image: url("internships/bannerImage.jpg");
-    background-size: cover;
-    position: relative;
-}
+
 .bannertext{
     text-align: center;
     position: absolute;
